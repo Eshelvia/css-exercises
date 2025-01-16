@@ -1,0 +1,16 @@
+.odd_numbers {
+    background-color: rgb(255, 195, 192);
+    font-family: Verdana, "DejaVu Sans" sans-serif;
+}
+.third_line {
+    font-size: 24px;
+}
+#second_line {
+    color: rgb(0, 0, 255);
+    font-size: 24px;
+}
+#forth_line {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
